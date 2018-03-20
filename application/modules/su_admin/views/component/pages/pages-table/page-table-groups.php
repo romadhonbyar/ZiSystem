@@ -1,0 +1,21 @@
+<thead>
+	<tr>
+		<th>#ID</th>
+		<th>Name</th>
+		<th>Description</th>
+		<th>Permission</th>
+		<th>Aksi</th>
+	</tr>
+</thead>
+<tbody>
+
+</tbody>
+<tfoot>
+	<tr>
+		<th>#ID</th>
+		<th>Name</th>
+		<th>Description</th>
+		<th>Permission</th>
+		<th>Aksi</th>
+	</tr>
+</tfoot>

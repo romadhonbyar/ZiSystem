@@ -1,0 +1,19 @@
+<thead>
+	<tr>
+		<th>Code</th>
+		<th>Name</th>
+		<th>Slug</th>
+		<th>Action</th>
+	</tr>
+</thead>
+<tbody>
+
+</tbody>
+<tfoot>
+	<tr>
+		<th>Code</th>
+		<th>Name</th>
+		<th>Slug</th>
+		<th>Action</th>
+	</tr>
+</tfoot>

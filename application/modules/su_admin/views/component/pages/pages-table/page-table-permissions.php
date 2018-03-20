@@ -1,0 +1,19 @@
+<thead>
+	<tr>
+		<!--<th>#ID</th>-->
+		<th>Key</th>
+		<th>Name</th>
+		<th>Aksi</th>
+	</tr>
+</thead>
+<tbody>
+
+</tbody>
+<tfoot>
+	<tr>
+		<!--<th>#ID</th>-->
+		<th>Key</th>
+		<th>Name</th>
+		<th>Aksi</th>
+	</tr>
+</tfoot>

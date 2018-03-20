@@ -1,0 +1,10 @@
+		$this->_render_page('pu_home/content/contents', 'pu_home/component/pages/pages-content/page-content-home',$data);
+	
+
+
+
+	function _render_page($view, $data=null, $render=false){ //I think this makes more sense
+		$this->viewdata = (empty($data)) ? $data: $data;
+		$view_html = $this->template->load($view, $this->viewdata, $render);
+		if ($render) return $view_html;//This will return html on 3rd argument being true
+	}

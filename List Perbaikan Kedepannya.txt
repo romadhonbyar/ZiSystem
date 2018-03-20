@@ -1,0 +1,23 @@
+Global:
+1. Buat tombol maintanace
+2. dinamis waktu refresh, autosave, 
+3. Buat logs
+4. Tags dengan koma automatis
+5. Atur breadcrumb
+6. Atur H1
+7. Atur bahasa auth nya, bisa swith bahasa juga
+8. membuat tombol publish dari draft
+
+Setting:
+1. Setting Waktu autosave Article
+2. 
+
+Khusus buat web profile:
+1. About dinamis
+2. Article dinamis
+
+
+Khusus buat web berita:
+1. About dinamis
+2. Article dinamis
+3. 
